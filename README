@@ -1,0 +1,10 @@
+RMagick 2.12.2 gem for OpenSolaris 2008.11
+==========================================
+
+What is it?
+A customized version of the RMagick 2.12.2 gem which can be installed on OpenSolaris 2008.11
+
+Just clone this repository and change to its folder.
+To install enter:
+# cd RMagick-2.12.2
+# pfexec gem install rmagick-2.12.2.gem
